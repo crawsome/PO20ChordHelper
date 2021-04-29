@@ -1,16 +1,16 @@
-#PO-20 Chord Helper
+# PO-20 Chord Helper
 
 Use this tool to explore a custom chord network from the [PO-20](https://teenage.engineering/guides/po-20/en), with visual guides.
 
 **PO-20 not required!**
 
-##Quickstart
+## Quickstart
 1. Run pochords.py
 2. Choose a key in the **Key** Groupbox
 3. Click a visible chord from the **Chord Guide** area you want to inspect in the **Visualization** area. 
 4. Repeat this process with different progressions, and play your Piano/Keyboard or your PO-20 on the side to learn how they move and sound!
 
-###View Options
+### View Options
 * Use the **View** -> **Toggle Background** to view as if the Pocket Operator is behind
 * Use the **View** -> **Show All** option to view all chords at once. 
 
